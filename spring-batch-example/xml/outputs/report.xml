@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><pagamento><pagamento numeroCartao="11223344"><nomeCliente>”Washington;Cezar”</nomeCliente><status>”PAGAMENTO;APROVADO”</status></pagamento><pagamento numeroCartao="99887766"><nomeCliente>”Beatriz;Jesus”</nomeCliente><status>”PAGAMENTO;RECUSADO”</status></pagamento></pagamento>
